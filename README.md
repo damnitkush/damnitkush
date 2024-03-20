@@ -3,7 +3,6 @@
 
 ![github bg](https://github.com/M2rider/M2rider/assets/129592380/a45cd79e-37a0-4593-8c2d-34eb4afb4bed)
 
-
 <h1 align="center">Hi 👋, I'm Kushagra Bhardwaj</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
@@ -27,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damnitkush&show_icons=true&locale=en&layout=compact" alt="damnitkush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damnitkush&show_icons=true&locale=en" alt="damnitkush" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damnitkush&" alt="damnitkush" /></p>
