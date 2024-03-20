@@ -1,4 +1,8 @@
-<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
+
+
+![github bg](https://github.com/M2rider/M2rider/assets/129592380/a45cd79e-37a0-4593-8c2d-34eb4afb4bed)
+
 
 <h1 align="center">Hi 👋, I'm Kushagra Bhardwaj</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
